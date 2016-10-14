@@ -1,5 +1,5 @@
 
-# Attitude
+# Attitude [![Go Report Card](https://goreportcard.com/badge/github.com/celluloidvfx/attitude)](https://goreportcard.com/report/github.com/celluloidvfx/attitude)
 
 Attitude is a command line application written in Go (golang) to manipulate user attributes in an [Active Directory Setup](https://wiki.samba.org/index.php/Setup_a_Samba_Active_Directory_Domain_Controller). We use it at [Celluloid VFX](http://celluloid-vfx.com/) to automatically edit attributes like login scripts paths (scriptPath).
 
